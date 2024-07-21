@@ -1,0 +1,46 @@
+.Titleline {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(252, 228, 90);
+}
+
+.homepage {
+    background-color: rgb(234, 229, 122)
+}
+
+#home {
+    text-align: center;
+    text-indent: -1cm;
+    margin-bottom: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    color: white;
+    background-color: brown;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    border: 2px solid;
+    padding: 4px;
+    border-radius: 20px;
+}
+
+h2, h3, h4 {
+    outline: auto;
+    outline-style: groove;
+    text-align: center;
+}
+
+p, li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 1cm;
+}
+
+img {
+    border: 10px solid;
+    padding: 15px;
+}
